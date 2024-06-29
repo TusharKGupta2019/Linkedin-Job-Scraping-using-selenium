@@ -1,10 +1,10 @@
 # Linkedin_scraping_py
 
 This repository contains code for data extraction from LinkedIn.
-The code is in 2 parts.
+The code is in 2 parts. 
 And 2 example files.
 
-Summary: Enhancing LinkedIn Profile and Resume with Data Analysis
+Summary: Enhancing LinkedIn Profile and Resume with Data Analysis.
 
 Objective: 
 Just trying to giving back to the community as i’ve received numerous direct messages (DMs) seeking referrals and assistance with data analyst roles, 
