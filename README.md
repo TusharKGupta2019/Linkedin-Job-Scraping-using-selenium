@@ -13,4 +13,4 @@ Hence, i made it in a generic way so that anybody can use it for any role.
 Data Gathering:
 Utilized Selenium for web scraping to gather job posting data from LinkedIn.
 Extracted job details, skills requirements, contact information, and other relevant data using BeautifulSoup.
-Collected URLs of job postings and skills from skills section for further analysis, visualizations.
+Collected URLs of job postings and skills from skills section for further analysis and visualizations.
